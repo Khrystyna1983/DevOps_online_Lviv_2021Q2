@@ -1,0 +1,15 @@
+1184dc7 (HEAD -> main, origin/main) HEAD@{0}: merge image: Merge made by the 'recursive' strategy.
+4c7b0d8 (origin/styles, styles) HEAD@{1}: checkout: moving from styles to main
+4c7b0d8 (origin/styles, styles) HEAD@{2}: checkout: moving from main to styles
+4c7b0d8 (origin/styles, styles) HEAD@{3}: commit: htm
+0829d2a HEAD@{4}: commit: b
+15efe17 HEAD@{5}: checkout: moving from image to main
+8599054 (origin/image, image) HEAD@{6}: commit: pg
+9a68b8a HEAD@{7}: commit: jp
+15efe17 HEAD@{8}: checkout: moving from main to image
+15efe17 HEAD@{9}: commit: html
+299d362 (origin/master, master) HEAD@{10}: checkout: moving from master to main
+299d362 (origin/master, master) HEAD@{11}: commit (initial): 1
+
+
+
