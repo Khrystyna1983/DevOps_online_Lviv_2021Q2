@@ -12,4 +12,26 @@
 299d362 (origin/master, master) HEAD@{11}: commit (initial): 1
 
 
+b4eeb3a (HEAD -> main, origin/main) HEAD@{0}: commit: pict
+8101add HEAD@{1}: checkout: moving from styles to main
+04957e8 (origin/styles, styles) HEAD@{2}: commit: test
+4c7b0d8 HEAD@{3}: checkout: moving from main to styles
+8101add HEAD@{4}: pull origin main: Fast-forward
+1e444bd HEAD@{5}: pull origin main: Merge made by the 'recursive' strategy.
+e87e08e HEAD@{6}: commit: myresult
+1184dc7 HEAD@{7}: merge image: Merge made by the 'recursive' strategy.
+4c7b0d8 HEAD@{8}: checkout: moving from styles to main
+4c7b0d8 HEAD@{9}: checkout: moving from main to styles
+4c7b0d8 HEAD@{10}: commit: htm
+0829d2a HEAD@{11}: commit: b
+15efe17 HEAD@{12}: checkout: moving from image to main
+8599054 (origin/image, image) HEAD@{13}: commit: pg
+9a68b8a HEAD@{14}: commit: jp
+15efe17 HEAD@{15}: checkout: moving from main to image
+15efe17 HEAD@{16}: commit: html
+299d362 (origin/master, master) HEAD@{17}: checkout: moving from master to main
+299d362 (origin/master, master) HEAD@{18}: commit (initial): 1
+
+
+
 
