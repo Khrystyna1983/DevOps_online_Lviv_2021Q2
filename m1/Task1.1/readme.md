@@ -17,5 +17,6 @@
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/git%20pull.jpg)
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/mkdir.jpg)
+1
 
 
