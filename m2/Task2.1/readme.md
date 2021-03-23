@@ -74,12 +74,13 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/вхідзпутті.jpg)
  
  
-6.the date command was:
+<p>6.the date command was:</p>
   
-  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/data.jpg
-7. Next sstep was  Stop and delete the created VM with commands:
-PS E:\Khrystyna> vagranthalt
-PS E:\Khrystyna> vagrant destroy
+  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/data.jpg)
+  
+<p>7. Next sstep was  Stop and delete the created VM with commands:</p>
+<p>PS E:\Khrystyna> vagranthalt</p></p>
+<p>PS E:\Khrystyna> vagrant destroy</p>
  
 
 
