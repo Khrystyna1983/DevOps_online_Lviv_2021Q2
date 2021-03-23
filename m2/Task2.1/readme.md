@@ -64,6 +64,8 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/установкабокса.jpg)
  
  4. Run Vagrant up:
+
+ ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/3.jpg
  
  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/vagrantup.jpg)
  
