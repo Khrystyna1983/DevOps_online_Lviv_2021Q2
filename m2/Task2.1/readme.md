@@ -8,7 +8,7 @@ SQL Server on Virtual Machines, Citrix Hypervisor</p>
 <h2>PART 1. HYPERVISORS </h2>
 <h2>PART 2. WORK WITH VIRTUALBOX</h2>
 <p>  I set-up  VirtualBox, created Virtual machine and set upthe latest stable version of Ubuntu Desktop or Ubuntu Server from the official site  </p>
-![Image alt](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/VM.jpg
+!Image alt(https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/VM.jpg
 <p>    </p>
 <p>    </p>
 <p>    </p>
