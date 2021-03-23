@@ -54,6 +54,8 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 
 <h2>PART 3. WORK WITH VAGRANT     </h2>
 
+<p>  Vagrant is a tool that create environments and allow us to create differant type of system with different operation system and settings. We can manage them and it can  help maximize the productivity and flexibility of our proceeder and activities  </p>
+
 
 
 
