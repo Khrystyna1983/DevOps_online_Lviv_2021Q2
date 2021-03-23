@@ -6,16 +6,16 @@
   <p>  Thank you :)</p>
   
   <p> There are scrin:</p>
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/%202.jpg)
+![1](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/2.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/5.jpg)
+![a](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/5.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/Screenshot_2.jpg)
+![b](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/Screenshot_2.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/git%20commit.jpg)
+![c](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/git%20commit.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/git%20pull.jpg)
+![d](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/git%20pull.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/mkdir.jpg)
+![e](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/mkdir.jpg)
 
 
