@@ -31,6 +31,12 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/network.jpg)
 
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/nettools.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/ping.jpg)
+
+
+
 
 
 
