@@ -11,6 +11,13 @@ SQL Server on Virtual Machines, Citrix Hypervisor</p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/VM.jpg)
 
+<p>2.(1.3- 1.5) Research diferent feacher  of VW and find out how to use them:
+
+ 
+start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capture, etc.  Make clon VM </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/Дод.jpg)
+
 <p>    </p>
 <p>    </p>
 <p>    </p>
