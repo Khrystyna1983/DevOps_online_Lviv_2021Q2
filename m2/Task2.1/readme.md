@@ -18,12 +18,22 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/Дод.jpg)
 
-<p>3. (1.7)   Snapshots  can save your machine and you always can used them  in order to insure you next action. You can recover your machine at some point. Its look like beckup  </p>
+<p>3. (1.7, 1.8)   Snapshots  can save your machine and you always can used them  in order to insure you next action. You can recover your machine at some point.The next stap: exported VM1 *.ova -its look like beckup  </p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/Зрізи.jpg)
+  
+<p> 4.(2) Worked with Virtual machine, investigated a lot of figur and setting, network with Host, between VM and in different occasions </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/USB.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/m2/Task2.1/Scrins/network.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/сетевой адаптер.jpg)
 
 
-<p>    </p>
+
+
+
 <p>    </p>
 <p>    </p>
 <p>    </p>
