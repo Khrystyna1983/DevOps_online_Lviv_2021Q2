@@ -4,4 +4,5 @@
   <p> We have learned how to create a repo, to added files, to change them, to move and download in your local computer, also how to merge branches and gathering all of the information, how to manage your creation and view file history. And we saw the way to  develop)</p>
   <p>  Devops  is a creator), i can say also like "magic stick" for members of team and customers.  I adore this phrase, what they say "Devops is like a culture, not role" - I suppose it is true. You should be aware of all streams at the project, cooperate, make decision and make it in a wise way. You must learn and share the experience, to maintain the system and be ready take responsibility, meet the demands .</p>
   <p>  Thank you :)</p>
+  <p> ![2](https://user-images.githubusercontent.com/54286610/112181675-5133b380-8c05-11eb-8b44-53842adbc13f.jpg)</p>
 
