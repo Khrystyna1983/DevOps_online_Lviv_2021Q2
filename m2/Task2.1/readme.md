@@ -5,7 +5,7 @@ SQL Server on Virtual Machines, Citrix Hypervisor</p>
 
 <p>2.	Briefly describe the main differences of the most popular hypervisors. </p>
 <p>Main different are  operating systems  (also spead and memory), where located . device drivers -inside the host operating system or outside, functionality, security issue, differet kind of storage, database, architecture, network cooperation, support and others</p>
-<h2>PART 1. HYPERVISORS </h2>
+
 <h2>PART 2. WORK WITH VIRTUALBOX</h2>
 <p>  I set-up  VirtualBox, created Virtual machine and set upthe latest stable version of Ubuntu Desktop or Ubuntu Server from the official site  </p>
 
