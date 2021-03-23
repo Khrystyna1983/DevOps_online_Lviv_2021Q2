@@ -8,9 +8,9 @@
   <p> There are scrin:</p>
 ![1](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/2.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/5.jpg)
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/5.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/Screenshot_2.jpg)
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/Screenshot_2.jpg)
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/git%20commit.jpg)
 
