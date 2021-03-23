@@ -6,4 +6,4 @@
   <p>  Thank you :)</p>
   <p> ![Иллюстрация к проекту](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/2.jpg)</p>
   
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/USB.jpg)
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrins/2.jpg)
