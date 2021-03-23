@@ -35,6 +35,20 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/ping.jpg)
 
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/спільнітеки.jpg)
+
+<p> 5. Also we can manage our machine from CLI through VBoxManage.  </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/Cli.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/cmd 3.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/cmd3.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/cmd55.jpg)
+
+
+
 
 
 
