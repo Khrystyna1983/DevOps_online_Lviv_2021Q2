@@ -18,6 +18,11 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/Дод.jpg)
 
+<p>3. (1.7)   Snapshots  can save your machine and you always can used them  in order to insure you next action. You can recover your machine at some point. Its look like beckup  </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrins/Зрізи.jpg)
+
+
 <p>    </p>
 <p>    </p>
 <p>    </p>
