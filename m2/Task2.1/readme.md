@@ -71,6 +71,16 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
  
  5.Connect to the VM using the program PuTTY which allows us take remote control on our VM
  
+ ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/вхідзпутті.jpg)
+ 
+ 
+6.the date command was:
+  
+  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/data.jpg
+7. Next sstep was  Stop and delete the created VM with commands:
+PS E:\Khrystyna> vagranthalt
+PS E:\Khrystyna> vagrant destroy
+ 
 
 
 
