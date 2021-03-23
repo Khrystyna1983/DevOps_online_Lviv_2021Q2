@@ -81,7 +81,9 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 <p>7. Next sstep was  Stop and delete the created VM with commands:</p>
 <p>PS E:\Khrystyna> vagranthalt</p></p>
 <p>PS E:\Khrystyna> vagrant destroy</p>
- 
+
+<p>    </p>
+
 
 
 
