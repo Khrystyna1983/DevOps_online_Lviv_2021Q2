@@ -54,7 +54,37 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 
 <h2>PART 3. WORK WITH VAGRANT     </h2>
 
-<p>  Vagrant is a tool that create environments and allow us to create differant type of system with different operation system and settings. We can manage them and it can  help maximize the productivity and flexibility of our proceeder and activities  </p>
+<p> 1. Vagrant is a tool that create environments and allow us to create differant type of system with different operation system and settings. We can manage them and it can  help maximize the productivity and flexibility of our proceeder and activities  </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/vagrantsetup.jpg)
+
+<p>2. 3. Powershell give us possibilities automatisation task and managing from their environment.
+ I fined and created box:</p>
+ 
+ ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/установкабокса.jpg)
+ 
+ 4. Run Vagrant up:
+
+ ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/3.jpg)
+ 
+ ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/vagrantup.jpg)
+ 
+ 5.Connect to the VM using the program PuTTY which allows us take remote control on our VM
+ 
+ ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/вхідзпутті.jpg)
+ 
+ 
+<p>6.the date command was:</p>
+  
+  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Vagrant/data.jpg)
+  
+<p>7. Next sstep was  Stop and delete the created VM with commands:</p>
+<p>PS E:\Khrystyna> vagranthalt</p></p>
+<p>PS E:\Khrystyna> vagrant destroy</p>
+
+<p>    </p>
+
+
 
 
 
