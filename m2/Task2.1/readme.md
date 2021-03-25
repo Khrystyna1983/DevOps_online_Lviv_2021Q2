@@ -82,30 +82,68 @@ start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capt
 <p>PS E:\Khrystyna> vagranthalt</p></p>
 <p>PS E:\Khrystyna> vagrant destroy</p>
 
-<p>    </p>
+
+<h2> 8. Create your own Vagrant box   </h2>
+<p> 8.1 The first step was create VM with ico file Centos 64 (http://mirrors.nav.ro/centos-altarch/7.9.2009/isos/i386/)</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/1установка.jpg)
+
+<p> Instalation: </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/2установкацент.jpg)
+
+<p> 8.2 Check main tolls and install additional option</p>
+<p> Service sshd status: </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/установкасент3.jpg)
+
+  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/установка4.jpg)
+
+<p> Improve our running : </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/настроки5.jpg)
+
+<p> 8.3 get Disable some function</p>
+
+<p>stop firewalled</p>
+<p>SeLinux disable</p>
+
+<p>Update system – yum update</p>
+<p>Set up  extra  features: yum install net-tools and systemctl reboot</p>
+
+  ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/додатковіПакети.jpg)
 
 
+<p>Set up Network <p>
 
 
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/порт.jpg)
+
+<p>And create my own Box</p>
+<p>8.4 create direction and added vagrant package:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/NewBox.jpg)
+
+<p>Create new box: vagrant package –base Centros</p>
+<p>Aded Box:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/boaadd2.jpg)
+
+<p>Then init:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/boaadd2.jpg)
 
 
+<p>The last one: vagrant up</p>
+
+<p>  Checke current list: vagrant box list</p>
 
 
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.1/Scrin2.8/box3Yes.jpg)
 
+<p>Launch the machine !</p>
+<p> Thank you for attention !</p>
 
-
-
-
-
-
-
-
-
-
-
-<p>    </p>
-<p>    </p>
-<p>    </p>
 
 
 
