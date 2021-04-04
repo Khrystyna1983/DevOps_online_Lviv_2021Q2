@@ -6,6 +6,7 @@
   <p>  Thank you :)</p>
   
   <p> There are scrin:</p>
+  
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/2.jpg)
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m1/Task1.1/Scrin/5.jpg)
