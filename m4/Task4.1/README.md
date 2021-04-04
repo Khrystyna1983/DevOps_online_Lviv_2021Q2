@@ -30,8 +30,6 @@ https://youtu.be/https://www.youtube.com/watch?v=2yEpX-JBIdc
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.1/Scrin/8непрацює.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.1/Scrin/8непрацює.jpg)
-
 <p>9. Зібрано Топологію - однойменні пристрої підключено  Copper Cross-over</p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.1/Scrin/9.jpg)
@@ -60,7 +58,7 @@ https://youtu.be/https://www.youtube.com/watch?v=2yEpX-JBIdc
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.1/17.Топологія4.gif)
 
-<p>18-20 Створюю топологію 5  розширяю свою схему роутером і додатковими комп'ютерами , додаю додаткові порти на світчі, щоб з'єднати роутер оптоволокном потрібно замінити порти, попередньо вимкнувши роутер. Це саме повторюю зі світчами. Привіласнюю IP адреса PC та роутеру, у налаштуваннях PC прописую Default Gateway, який дорівнює IP нашого роутера для цієї підмережі.  </p>
+<p>18-20 Створюю топологію 5  розширяю свою схему роутером і додатковими комп'ютерами , додаю додаткові порти на світчі, щоб з'єднати роутер оптоволокном потрібно замінити порти, попередньо вимкнувши роутер. Це саме повторюю зі світчами. Привласнюю IP адреса PC та роутеру, у налаштуваннях PC прописую Default Gateway, який дорівнює IP нашого роутера для цієї підмережі.  </p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.1/Scrin/19,20Топологія5.jpg)
 
@@ -73,7 +71,7 @@ https://youtu.be/https://www.youtube.com/watch?v=2yEpX-JBIdc
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.1/22.Топологія5.gif)
 
-https://www.youtube.com/watch?v=2yEpX-JBIdc
+https://youtu.be/https://www.youtube.com/watch?v=8STiSbnKHK4
 
 <p>23. Різниця між топологією 4 і топологією 5 є те що у останній ми маємо 2 окремі підмережі, які за допомогою маршрутизатора мають змогу спілкуватись одна з одною</p>
 <p>5.Можливостіякі дає маршрутиатор: створювати підмережі які здатні передавати одній одній інформацію. Роутер здатний комунікувати з різними мережами, він також може розпізнати адресата та отримувачаю Роутери не привязані до лише до локальної мережі , мають можливість відсилати повідомлення по всьому світу та взаємодіяти з пристроями, з якими раніше не було комунікації  </p>
