@@ -26,7 +26,6 @@ https://youtu.be/https://www.youtube.com/watch?v=hsdgEiRAAyQ
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.3/2.gif)
 
-<p>Succesfully:) </p>
 
 <p>And a little bit about reports:</p>
 
