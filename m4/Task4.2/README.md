@@ -63,6 +63,20 @@ name VLAN3. and so on
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/scrinnew/2.2main%sw.jpg)
 
+<p>int fa 0/1</p></p></p>
+<p>switchport trunk encapsulation dot1q</p></p>
+<p>switchport mode trunk</p>
+<p>switchport trunk allowed vlan 2,3,4,5,6</p>
+<p>exit</p>
+<p>int fa 0/2</p>
+<p>switchport trunk encapsulation dot1q</p>
+<p>switchport mode trunk</p>
+<p>switchport trunk allowed vlan 2,3,4,5,6</p>
+<p>exit
+ <p>...</p>
+ <p>ip routing</p>
+ <p>do wr mem</p>
+
 <p>Set up PC</p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/scrinnew/3.jpg)
