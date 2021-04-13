@@ -112,6 +112,10 @@ https://youtu.be/https://www.youtube.com/watch?v=uLdcOSOWmpU
 
 https://youtu.be/https://www.youtube.com/watch?v=YZXkveSHzUs
 
+<p>and check one of massage</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/scrinnew/lastlartcheck.jpg)
+
 <p>Thank you!</p>
 
 
