@@ -1,4 +1,4 @@
-<p>1.Simulated a corporate network  </p>
+<h3>1.Simulated a corporate network  </h3>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/Scrin/1.2.jpg)
 
@@ -16,7 +16,7 @@
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/1.3.jpg)
 
-<p>2.I've done a few schemas) prectise)</p>
+<h3>2.I've done a few schemas) prectise)</h3>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/Scrin/2.2schema.jpg)
 
@@ -38,9 +38,9 @@
 
 <p>and analised the trafic</p>
 
-<p>Also I could implemene two different subnets by using L3 multyswitch -  it has completed in task 4.3 - you are able to see this)</p>
+<p>Also I could implement two different subnets by using L3 multyswitch -  it has completed in task 4.3 - you are able to see this)</p>
 
-<p>3. I tried  to completed this task by using different ways too)</p>
+<h3>3. My next work</h3>
 
 <p>Set up my switches and took trunf port and eccapsulation</p>
 <p>Created vlans enable
@@ -94,12 +94,24 @@ name VLAN3. and so on
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/scrinnew/6routing.jpg)
 
+<p>Check ping</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/scrinnew/1last.jpg)
+
 <p>My schemas:</p>
-
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/2.3майже.gif)
-
+ 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/4.2last.gif)
 
-<p>But still dont work connection with router - maybe, I should set up interfaces in router too or find out another way - I will come back to this task </p>
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/4.2.3.1.gif)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m4/Task4.2/4.2.3.2.gif)
+
+<p>Or you can watch in youtube:</p>
+
+https://youtu.be/https://www.youtube.com/watch?v=uLdcOSOWmpU
+
+https://youtu.be/https://www.youtube.com/watch?v=YZXkveSHzUs
+
+<p>Thank you!</p>
 
 
