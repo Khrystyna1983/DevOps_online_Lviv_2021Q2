@@ -94,12 +94,12 @@
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.1/scrin1/8.3home.jpg)
 
-<p>In order to fingd all the catalogs we use:</p>
+<p>In order to find all the catalogs we use:</p>
 
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.1/scrin1/8.4.jpg/m4/Task4.2/1.gif)
 
-<h2>Task1.Part1</h2>
+<h2>Task1.Part2</h2>
 
 <p>1. sudo apt-get install tree</p>
 
@@ -149,8 +149,6 @@ ls -l -a – the same calums and “.” With hiden files
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.1/scrin2/5.1.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.1/scrin2/5.2.jpg)
-
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.1/scrin2/5.3.jpg)
 
 <p>Copy file:</p>
@@ -179,7 +177,7 @@ If we talk about soft link, we can see all the information and can notice that.
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.1/scrin2/6.4.jpg)
 
-<pDeleted the labwork2 – soft link  become broken, but hard link have still existed, because  hard link – is a copy (backup) our file, we should deleted link too.></p>
+<p>Deleted the labwork2 – soft link  become broken, but hard link have still existed, because  hard link – is a copy (backup) our file, we should deleted link too.</p>
 <p>7.</p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.1/scrin2/7.1.jpg)
