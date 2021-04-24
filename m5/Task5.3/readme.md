@@ -288,7 +288,7 @@ Set up Openssh  -client (Windows) :
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.5last.jpg)
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.6%who.jpg)
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.6who2.jpg)
 
 <p>4.	 Find out IP our guest machine </p>
 
