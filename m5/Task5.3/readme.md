@@ -183,20 +183,161 @@ current time, up – how long the system is working,  user – current users, lo
 
 <h3>PART 2</h3>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>1.	My aim in this task is to set up the ssh connection between Windows 10 and VM (Ubuntu 16) 
+and the next one – between two Virtual machine . It should be automatization – entrance without password, test common openssh commands
+Set up Openssh  -client (Windows) :
+</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.1opensshClient.jpg)
+
+<p>Next step – set up network in VM:</p>
 
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/0bridge.jpg)
+
+<p>Execute command:  ssh-keygen – generate the keys</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.2powershelsshKey.jpg)
+
+<p>We should copy our public key  to Ubuntu </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.3.jpg)
+
+<p>Come over to our Virtual machine</p>
+
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.4.jpg)
+
+<p>Typed sudo apt-get openssh-server openssh -client :</p>
+<p>And copied my key in to .ssh:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.5.jpg)
+
+<p>Exit from VM and connect again without password:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.6last.jpg)
+
+<p>We also can do ssh-connection   between 2 VM:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.7ub.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.8waw.jpg)
+
+
+<p>Chcked our  ssh- connect:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.9puttyWho.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.10executmoba.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.11est.jpg)
+
+
+<p>2.	There are 3 steps for increasing security in your system:</p>
+<p>-	cut off user root from system – in order to nobody knows about main user, cant gas the login</p>
+<p>-	change port for entrance</p>
+<p>-	сancell log in and password</p>
+
+<p>Turn off user root – edit the file by typing  vi /etc/ssh/sshd_config</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/1.11est.jpg)
+
+<p>And changed permition </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/2.1file.jpg)
+
+<p>than restart service</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/2.2.jpg)
+
+<p>And check</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/2.3.jpg)
+
+<p>Next step – change port</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/2.4Port.jpg)
+
+<p>Connected and checked</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/2.5.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/2.6.jpg)
+
+<p>Disable Password-Based Logins on Your Server</p>
+<p>Change the file vi /etc/ssh/sshd_config</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/2.8.jpg)
+
+<p>Restart service sshd</p>
+
+<p>3.	There are some description about keys :</p>
+<p>RSA ( Rivest-Shamir-Adleman ) – if we compare with DSA this key faster check signature. It is one of the old algorithm based on the difficulty of factoring large numbers.</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.1rsa.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.2rsa.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.3.jpg)
+
+<p>ecdsa - a new Digital Signature Algorithm. This is probably a good algoritm for current applications. Have the same level of security as rsa, but smaller</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.4ecdsa.jpg)
+
+<p>ed25519 - this is a new algorithm added in OpenSSH.Have higher level of  security.</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.5last.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/3.6%who.jpg)
+
+<p>4.	 Find out IP our guest machine </p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.1.jpg)
+
+<p>Setting the rules in host machine:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.2.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.3.jpg)
+
+<p>In the guest machine:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.4.jpg)
+
+<p>Connection:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.5.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.6.jpg)
+
+<p>And  at VM:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.7.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/4.8.jpg)
+
+<p>5.	Ssh</p>
+<p>We can capture  traffic   by ssh -connection – using command tcpdump:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/5.1sshCapture.jpg)
+
+<p>In this scrin  we can see information about connection and user autorization – it’s conversation between  machine? Lets consider some of them:</p>
+<p>The first field, 20:10:59.775168, represents the timestamp of the received packet</p>
+<p>Next – IP – it’s protocol</p>
+<p>The next field, 192.168.0.07, is the source IP address and port</p>
+<p>Next IP – to whom we request – IP</p>
+<p>Next we can find the TCP Flags: S – start connection, F – finish connection, P – data push, R – connection resect, . Ack – acknowledgment</p>
+<p>This is followed by the Ack Number: ack 1. In this case, it is 1 since this is the side sending data. For the side receiving data, this field represents the next expected byte (data) on this flow – ack34
+The next field is the window size win 64240, which represents the number of bytes available in the receiving buffer
+</p>
+<p>Finally, we have the packet length, length 42, which represents the length, in bytes, of the payload data. The length is the difference between the last and first bytes in the sequence number.</p>
+<p>Telnet – we should install telnet: </p>
+<p>sudo apt-get install telnetd -y</p>
+<p>We can connect by using telnet to another VM:</p>
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m5/Task5.3/Scrin2/5.2telnet.jpg)
+
+<p>And capture trafic by typing : tcpdump tcp port 23</p>
+
+<p>Thank you for your attention.</p>
+
