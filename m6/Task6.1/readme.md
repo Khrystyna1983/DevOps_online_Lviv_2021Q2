@@ -1,4 +1,4 @@
-<p>1.	Create  VM's  :  VM1 and VM2</p>
+<p>1.	Create  VMs  :  VM1 and VM2</p>
 
 <p>VM1 have two  interfaces</p>
 
