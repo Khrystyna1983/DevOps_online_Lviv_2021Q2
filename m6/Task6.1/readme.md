@@ -58,4 +58,7 @@
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m6/Task6.1/Scrin/8.0.jpg)
 
 
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m6/Task6.1/Scrin/8.3.jpg)
+
+
 <p>Thank you! Have a nice day!</p>
