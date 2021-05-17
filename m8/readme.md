@@ -1,5 +1,5 @@
 <h1>JENKINS</h1>
-<p>I tried to gather artifact from GIThub and deployed to Apach server, I also I tried Pipeline. And I want to try all the approaches, if I catched time)</p>
+<p>I tried to gather artifact from GIThub and deployed to Apach server, I also I tried Pipeline. And I want to try all the approaches, if I will catch time)</p>
 
 <p>Install Jenkins on VM1:</p>
 
