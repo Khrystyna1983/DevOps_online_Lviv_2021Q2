@@ -60,7 +60,7 @@ and General configuration:
 
 <p>And result (VM2-server):</p>
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/1.7result.jpg)
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/5.2.jpg)
 
 <p>I have worked also with simple Pipeline job - connection with github, created jenkinsfile and pull, puch :</p>
 
@@ -69,6 +69,8 @@ and General configuration:
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/2.3.jpg)
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/2.4.jpg)
+
+![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/1.7result.jpg)
 
 
 <p>Thank's</p>
