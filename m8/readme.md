@@ -1,5 +1,5 @@
 <h1>JENKINS</h1>
-<p>I tried to gather artifact from GIThub and deployed to Apach server, I also I tried Pipeline. And I want to try all the approaches, if I will catch time)</p>
+<p>I tried to gather artifact from GIThub and deployed to Apach server, I also I tried Pipeline. And I want to try all the approaches, if I will have enought  time)</p>
 
 <p>Install Jenkins on VM1:</p>
 
@@ -18,13 +18,13 @@
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/0.6ssh.jpg)
 
-<p>Got access for your user(who will push) on Server to dir var/www/html </p>
+<p>Gave access for your user(who will push) on Server to dir var/www/html </p>
 
-<p>Created repository at GIThub  - by Gt pushed my file  into repo </p>
+<p>Created repository at GIThub  - by Git pushed my file  into repo </p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/1.1develop.jpg)
 
-<p>Copied public ыыр key fom VM with jenkins (id_rsa.pub) to Github </p>
+<p>Copied public  key fom VM with jenkins (id_rsa.pub) to Github </p>
 <p>Checked my connection from VM</p>
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m8/Scrin/1.3connection.jpg)
