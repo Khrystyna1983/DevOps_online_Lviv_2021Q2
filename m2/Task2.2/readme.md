@@ -67,7 +67,7 @@ or we can create AMI from instanse durectly
 
 <p>abd then touch to anoter instance</p>
 
-<p>We can create instance with Wordpress 2 different ways - The first one is  set up apache, turmn off firewall, set up php, mysql server, create mysql client, create a database wordpress,create users and privilages, install and configure wordpress </p>
+<p>10.We can create instance with Wordpress 2 different ways - The first one is  set up apache, turmn off firewall, set up php, mysql server, create mysql client, create a database wordpress,create users and privilages, install and configure wordpress </p>
 <p>or we can choos the option of AWS and added word press during our instalation instance - I chose this way and very quicly deleted after that becouce its take charge paid</p>
 
 
