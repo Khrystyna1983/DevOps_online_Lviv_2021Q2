@@ -97,7 +97,9 @@ or we can create AMI from instanse durectly
 
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/m2/Task2.2/Scrins/13EIP.jpg)
 
-<p>Didn't work with Route 53 becouse of charges(</p>
+<p>Didn't work with Route 53 becouse of fee-paying services(</p>
+
+<p>14. Awared with tutoial  I hope come back to this task a little bit later. But affraide of fee-paying services</p>
 
 <p>15. Create S3 and make Static web-site : <a href="http://khrystyna.epamdevops.s3-website.eu-central-1.amazonaws.com/">https://http://khrystyna.epamdevops.s3-website.eu-central-1.amazonaws.com</a></p>
 
