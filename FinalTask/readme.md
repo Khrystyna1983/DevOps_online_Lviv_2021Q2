@@ -9,7 +9,7 @@
 ![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/FinalTask/Scrin/2.jpg)
 
 
-![](https://github.com/Khrystyna1983/DevOps_online_Lviv_2021Q2/raw/master/FinalTask/Scrin/2.jpg)
+
 
 
 
