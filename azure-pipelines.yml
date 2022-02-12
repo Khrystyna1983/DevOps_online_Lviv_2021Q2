@@ -1,0 +1,15 @@
+#  Build artifacts
+
+
+trigger:
+- main
+ 
+pool:
+  name: Azure Pipelines
+
+steps:
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(build.sourcesDirectory)'
+    ArtifactName: 's3-infrustructure'
+    publishLocation: 'Container'
